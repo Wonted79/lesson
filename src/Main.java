@@ -5,6 +5,7 @@ public class Main {
         Sum sum = new Sum();
         System.out.println(sum.sum());
         System.out.println("ee");
+        System.out.println("나는 메인 브랜치야");
         //hi
     }
 }
