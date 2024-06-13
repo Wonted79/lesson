@@ -1,8 +1,11 @@
 public class Sum {
     int x = 1;
-    int y = 2 ;
+    int y = 1 ;
     public int sum () {
-        System.out.println("main");
-        return 4;
+
+        System.out.println("coupon");
+        System.out.println("쿠폰이당");
+        return 3;
+
     }
 }
