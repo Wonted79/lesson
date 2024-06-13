@@ -1,7 +1,8 @@
 public class Sum {
     int x = 1;
-    int y = 2 ;
+    int y = 1 ;
     public int sum () {
-        return x+y+1;
+        System.out.println("coupon");
+        return 3;
     }
 }
